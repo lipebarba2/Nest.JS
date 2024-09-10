@@ -1,4 +1,12 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all"
+  "prettier/prettier": [
+    
+    {
+      "singleQuote": true,
+      "parser": "flow"
+    },
+    {
+      "endOfLine": "lf"
+    }
+  ]
 }
